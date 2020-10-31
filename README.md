@@ -1,3 +1,3 @@
-# UI Clone Pure - sem FrameWorks
+# UI Clone Pure - sem FrameWork
 
 Google - https://googleuiclone.netlify.app/
