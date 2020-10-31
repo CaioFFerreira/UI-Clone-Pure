@@ -41,6 +41,7 @@
 
         nav:first-child  ul a{
             padding-right: 20px;
+            
             @media(max-width:880px){
                 padding: 10px;
             }
